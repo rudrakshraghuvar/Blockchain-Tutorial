@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/himanshusaini/Desktop/My Data/Hardhat/contracts/Token.sol": {
+      "lastModificationDate": 1691132492096,
+      "contentHash": "7572d85881b3c29537a7e455b6d24bc2",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.8 <0.9.8"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    }
+  }
+}
