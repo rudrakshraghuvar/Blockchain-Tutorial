@@ -1,0 +1,31 @@
+body {
+    background-color: rgba(5, 3, 4, 0.327);
+    font-family: tahoma;
+    font-size: 33px;
+    display: flex;
+    flex-direction: row;
+  }
+  button {
+    background-color: rgb(226, 14, 183);
+    font-size: 33px;
+    padding: 5px;
+    font-family: Impact;
+    border-radius: 10px;
+  }
+  button:hover {
+    background-color: rgb(14, 227, 85);
+  }
+  input {
+    width: 25vw;
+    height: 30px;
+    font-size: 25px;
+    font-family: tahoma;
+    outline: none;
+    border-radius: 5px;
+  }
+  .read{
+    color: blue
+  }
+  .write{
+    color:red
+  }
